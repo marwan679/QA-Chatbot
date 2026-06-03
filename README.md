@@ -107,5 +107,3 @@ This environment is perfect for debugging, checking dependency installations, or
 
 Got ideas to improve this project? Feel free to fork the repository, make your changes, and submit a Pull Request!
 You can download the generated file using the link above and drop it directly into your GitHub repository!
-
-```
